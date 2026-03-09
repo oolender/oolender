@@ -1,16 +1,6 @@
 ## 👋 Hi, I'm Oliwia!  
 Marketing Analyst with **4+ years** in digital marketing, customer service and data analysis. Aspiring **Systems Analyst** – bridging business needs with tech solutions.
 
-## 💼 Professional Experience
-
-### **Marketing Specialist**
-*Dec 2022 - Oct 2025*  
-- 🔍 Data analysis & campaign performance evaluation  
-- 📈 Market research, competitor analysis, data-driven recommendations  
-- ⚡ Agile marketing coordination & tech implementation
-
-**Previous roles**: SEO optimization, web analytics, customer service excellenc
-
 ## 🛠️ Technical Skills
 
 | Category | Tools |
@@ -19,7 +9,6 @@ Marketing Analyst with **4+ years** in digital marketing, customer service and d
 | **APIs & Docs** | JSON/XML, **Postman**, JavaScript/CSS |
 | **Process Modeling** | **UML/Draw.io**, Agile/Scrum/**Jira** |
 | **Design & PM** | **Figma**, WordPress, ClickUp |
-| **Certifications** | **IBM Python Data Science & AI Development** |
 
 ## 🔥 Featured Projects
 
