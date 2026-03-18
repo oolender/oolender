@@ -16,6 +16,7 @@ Marketing Analyst with experience in digital marketing, customer service and dat
 |---------|-------------|------------|------|
 | 🏠 **House Price Prediction** | ML model predicting real estate prices using data science techniques | Python | [GitHub](https://github.com/oolender/house_price_prediction) |
 | 📈 **Stock Revenue Analysis** | Financial data analysis with revenue insights & visualizations | Python | [GitHub](https://github.com/oolender/stock_revenue_analysis) |
+| 📊 **Online Retail Analysis** | EDA & RFM customer segmentation on UK e-commerce transactional data. | Python | [GitHub](https://github.com/oolender/online_retail_analysis) |
 
 ## 👋🏻 Let's connect!
 
