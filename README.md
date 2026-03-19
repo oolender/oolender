@@ -6,9 +6,9 @@ Marketing Analyst with experience in digital marketing, customer service and dat
 | Category | Tools |
 |----------|-------|
 | **Analytics** | Python, SQL, Power BI, Excel, Google Analytics, SPSS |
-| **APIs & Docs** | JSON/XML, Postman, JavaScript/CSS |
-| **Process Modeling** | UML/Draw.io, Agile/Scrum/**Jira** |
-| **Design & PM** | Figma, WordPress, ClickUp |
+| **APIs & Docs** | JSON/XML, Postman |
+| **Process Modeling** | UML/Draw.io, Agile/Scrum/Jira/ClickUp |
+| **Design & Web** | Figma, WordPress, JavaScript/CSS |
 
 ## 🤍 Featured Projects
 
