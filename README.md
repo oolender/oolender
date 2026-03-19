@@ -1,5 +1,5 @@
 ## 🙋🏻‍♀️ Hi, I'm Oliwia!  
-Marketing Analyst with experience in digital marketing, customer service and data analysis. Aspiring **Systems Analyst** – bridging business needs with tech solutions.
+Analyst with experience in digital marketing, customer service and information architecture. Aspiring **Systems Analyst** – bridging business needs with tech solutions.
 
 ## 👩🏻‍💻 Technical Skills
 
