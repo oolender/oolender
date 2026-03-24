@@ -20,7 +20,7 @@ Analyst with experience in digital marketing, customer service and information a
 
 ## 👋🏻 Let's connect!
 
-[LinkedIn](https://linkedin.com/oliwia-olender)
+[LinkedIn](https://www.linkedin.com/in/oliwia-olender/)
 [GitHub](https://github.com/oolender)
 
 
